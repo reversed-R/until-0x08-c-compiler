@@ -1,0 +1,6 @@
+**/node_modules
+ddd.png
+test.png
+**/*.svg
+**/*.pdf
+**/*.pptx
